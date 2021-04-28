@@ -1,5 +1,6 @@
 # CoronaTracker
 coronatracker app with real-time updates & safety measures
+
 rejected by apple
 
 more info:
