@@ -1,8 +1,11 @@
 # CoronaTracker
 
-![overview](https://github.com/08jhs05/CoronaTracker/blob/master/overview.png)
-![news](https://github.com/08jhs05/CoronaTracker/blob/master/news.png)
-![safetyMeasures](https://github.com/08jhs05/CoronaTracker/blob/master/safety.png)
+<div>
+  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/overview.png" width="300">
+  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/news.png" width="300">
+  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/safety.png" width="300">
+</div>
+
 
 Coronatracker app that features real-time Coronavirus cases counter with useful information. Data is updated daily.
 
