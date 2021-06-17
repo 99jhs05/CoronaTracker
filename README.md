@@ -7,7 +7,7 @@
 </div>
 
 
-Coronatracker app that features real-time Coronavirus cases counter with useful information. Data is updated daily.
+Coronatracker is an iOS app that features real-time Coronavirus cases counter with useful information. Data is updated daily.
 
 Follow the safety tips advised by WHO(World Health Organization) to prevent infection.
 
