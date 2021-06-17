@@ -1,9 +1,9 @@
 # CoronaTracker
 
 <div>
-  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/overview.png" width="300">
-  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/news.png" width="300">
-  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/safety.png" width="300">
+  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/overview.png" width="250">
+  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/news.png" width="250">
+  <img src="https://github.com/08jhs05/CoronaTracker/blob/master/safety.png" width="250">
 </div>
 
 
