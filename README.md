@@ -11,7 +11,7 @@ Coronatracker is an iOS app that features real-time Coronavirus cases counter wi
 
 Follow the safety tips advised by WHO(World Health Organization) to prevent infection.
 
-This app is rejected by apple and no longer available on Appstore.
+*This app is rejected by apple and no longer available on Appstore.
 
 more info:
 https://sites.google.com/view/covid19virustrackerapp/home
