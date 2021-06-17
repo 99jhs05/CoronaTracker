@@ -1,6 +1,6 @@
 # CoronaTracker
 
-![overview](hhttps://github.com/08jhs05/CoronaTracker/blob/master/overview.png)
+![overview](https://github.com/08jhs05/CoronaTracker/blob/master/overview.png)
 ![news](https://github.com/08jhs05/CoronaTracker/blob/master/news.png)
 ![safetyMeasures](https://github.com/08jhs05/CoronaTracker/blob/master/safety.png)
 
