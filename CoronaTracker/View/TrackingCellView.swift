@@ -19,23 +19,23 @@ struct TrackingCellView: View {
         VStack{
             HStack{
                 Image(uiImage: Flag(countryCode: self.flagName(name: data.name))!.image(style: .none))
-                Text(data.name).font(.custom("DIN Alternate", size: 14))
+                Text(data.name).font(.custom("DIN Alternate", size: 10))
                 Spacer()
                 VStack{
                     Text("Confirmed").font(.custom("DIN Alternate", size: 12))
-                    Text(String(data.confirmed)).font(.custom("DIN Alternate", size: 18))
+                    Text(String(data.confirmed)).font(.custom("DIN Alternate", size: 12))
                 }
                 VStack{
                     Text("Deaths").font(.custom("DIN Alternate", size: 12)).foregroundColor(.red)
-                    Text(String(data.deaths)).font(.custom("DIN Alternate", size: 18))
+                    Text(String(data.deaths)).font(.custom("DIN Alternate", size: 12))
                 }
                 VStack{
                     Text("Recovered").font(.custom("DIN Alternate", size: 12)).foregroundColor(.green)
-                    Text(String(data.recovered)).font(.custom("DIN Alternate", size: 18))
+                    Text(String(data.recovered)).font(.custom("DIN Alternate", size: 12))
                 }
                 VStack{
                     Text("Active").font(.custom("DIN Alternate", size: 12))
-                    Text(String(data.active)).font(.custom("DIN Alternate", size: 18))
+                    Text(String(data.active)).font(.custom("DIN Alternate", size: 12))
                 }
                 
                 if data.subRegions.count != 0{

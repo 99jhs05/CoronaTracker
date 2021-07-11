@@ -33,8 +33,9 @@ struct OverView: View {
                         }
                     }.padding()
                 }.edgesIgnoringSafeArea(.all)
+            } else{
+                Loader()
             }
-            else {Loader()}
             AdBannerView().frame(width: UIScreen.main.bounds.width, height: 60)
         }
     }
